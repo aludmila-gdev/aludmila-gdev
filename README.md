@@ -5,7 +5,7 @@
   <a href = "mailto:kn.ludi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-ludmila-de-oliveira-974642a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
-<br>
+
 
 1. [About Me](#about-me)
 2. [Working on](#working-on)
@@ -17,19 +17,6 @@
 I'm a Senior Quality Consultant with 13+ years of experience. MBA in Strategic Quality Management and CTFL, CTFL-AT, CTAL-TAE, CTAL-SEC.
 
 Currently focused on Mobile projects, with experience in development, test automation and build pipelines. I already had the opportunity to work with different clients from North and South America.
-
-
-<div align="center">
-  <a href="https://github.com/knludi">
-  <img height="300em" src="https://raw.githubusercontent.com/knludi/knludi/master/res/ana.gif"/>
-</div>
-
-------------------------------------------------------------------------
-## Working on
-
-📚 I’m currently learning [iOS App Development](https://github.com/knludi-ios)
-
-👩🏽‍🏭 I’m currently working on [Kranberry Library](https://github.com/kranberry-io/kranberry)
 
 ------------------------------------------------------------------------
 ## Skills & Tools
@@ -46,12 +33,19 @@ Currently focused on Mobile projects, with experience in development, test autom
 </div>
 
 ------------------------------------------------------------------------
+## Working on
+
+📚 I’m currently learning [iOS App Development](https://github.com/knludi-ios)
+
+👩🏽‍🏭 I’m currently working on [Kranberry Library](https://github.com/kranberry-io/kranberry)
+
+------------------------------------------------------------------------
 ## Stats
 <br>
 <div align="center">
   <a href="https://github.com/knludi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=knludi&show_icons=true&theme=buefy&count_private=true&show_owner=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knludi&repo=github-readme-stats"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=knludi&show_icons=true&theme=buefy&count_private=true&show_owner=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knludi&repo=github-readme-stats"/>
 </div>
 
 ------------------------------------------------------------------------
@@ -61,4 +55,8 @@ Currently focused on Mobile projects, with experience in development, test autom
   <img height="25em" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=knludi.knludi&color=00cf00"/>
 </div>
 
-
+------------------------------------------------------------------------
+<div align="center">
+  <a href="https://github.com/knludi">
+  <img height="300em" src="https://raw.githubusercontent.com/knludi/knludi/master/res/ana.gif"/>
+</div>
