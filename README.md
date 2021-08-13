@@ -44,8 +44,8 @@ Currently focused on Mobile projects, with experience in development, test autom
 <br>
 <div align="center">
   <a href="https://github.com/knludi">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=knludi&show_icons=true&theme=buefy&count_private=true&show_owner=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knludi&repo=github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=knludi&show_icons=true&theme=buefy&count_private=true&show_owner=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knludi&repo=github-readme-stats"/>
 </div>
 
 ------------------------------------------------------------------------
