@@ -21,15 +21,34 @@ Currently focused on Mobile projects, with experience in development, test autom
 ------------------------------------------------------------------------
 ## Skills & Tools
 <div align="center">
-  <img align="center" alt="Ana-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+
+<a target="_blank" href="https://kotlinlang.org/"> 
+    <img align="center" alt="Ana-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+</a>
+<a target="_blank" href="https://www.java.com/"> 
   <img align="center" alt="Ana-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</a>
+<a target="_blank" href="https://developer.android.com/"> 
   <img align="center" alt="Ana-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+</a>
+<a target="_blank" href="https://developer.apple.com/develop/"> 
   <img align="center" alt="Ana-iOS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
+</a>
+<a target="_blank" href="https://gradle.org/"> 
   <img align="center" alt="Ana-Gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg">
+</a>
+<a target="_blank" href="https://www.jetbrains.com/idea/"> 
   <img align="center" alt="Ana-intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+</a>
+<a target="_blank" href="https://www.jenkins.io/"> 
   <img align="center" alt="Ana-jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+</a>
+<a target="_blank" href="https://github.com/kranberry-io/kranberry"> 
   <img align="center" alt="Ana-Kranberry" height="30" width="30" src="https://raw.githubusercontent.com/knludi/knludi/master/res/logo-kranberry.png">
+</a>
+<a target="_blank" href="https://thedevconf.com/palestrante/ana-ludmila-de-oliveira"> 
   <img align="center" alt="Ana-Kranberry" height="40" width="40" src="https://raw.githubusercontent.com/knludi/knludi/master/res/logo-tdc.png">
+</a>
 </div>
 
 ------------------------------------------------------------------------
@@ -45,7 +64,12 @@ Currently focused on Mobile projects, with experience in development, test autom
 <div align="center">
   <a href="https://github.com/knludi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=knludi&show_icons=true&theme=buefy&count_private=true&show_owner=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knludi&repo=github-readme-stats"/>
+</div>
+
+<br>
+<div align="center">
+  <a href="https://github.com/knludi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knludi&repo=github-readme-stats&layout=compact"/>
 </div>
 
 ------------------------------------------------------------------------
