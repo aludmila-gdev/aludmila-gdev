@@ -14,12 +14,13 @@
 
 ------------------------------------------------------------------------
 ## About Me
-I'm a Senior Quality Consultant with 13+ years of experience. MBA in Strategic Quality Management and CTFL, CTFL-AT, CTAL-TAE, CTAL-SEC.
+I'm a Lead Quality Consultant with 13+ years of experience. MBA in Strategic Quality Management and CTFL, CTFL-AT, CTAL-TAE, CTAL-SEC.
 
 Currently focused on Mobile projects, with experience in development, test automation and build pipelines. I already had the opportunity to work with different clients from North and South America.
 
 ------------------------------------------------------------------------
 ## Skills & Tools
+
 <div align="center">
 
 <a target="_blank" href="https://kotlinlang.org/"> 
@@ -54,9 +55,10 @@ Currently focused on Mobile projects, with experience in development, test autom
 ------------------------------------------------------------------------
 ## Working on
 
-📚 I’m currently learning [iOS App Development](https://github.com/knludi-ios)
 
 👩🏽‍🏭 I’m currently working on [Kranberry Library](https://github.com/kranberry-io/kranberry)
+
+📚 I’m currently learning [iOS App Development](https://github.com/knludi-ios)
 
 ------------------------------------------------------------------------
 ## Stats
