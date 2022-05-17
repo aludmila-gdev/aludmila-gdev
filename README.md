@@ -14,7 +14,7 @@
 
 ------------------------------------------------------------------------
 ## About Me
-I'm a Lead Quality Consultant with 13+ years of experience. MBA in Strategic Quality Management and CTFL, CTFL-AT, CTAL-TAE, CTAL-SEC.
+I'm a Lead Mobile Developer with 13+ years of experience. MBA in Strategic Quality Management and CTFL, CTFL-AT, CTAL-TAE, CTAL-SEC.
 
 Currently focused on Mobile projects, with experience in development, test automation and build pipelines. I already had the opportunity to work with different clients from North and South America.
 
