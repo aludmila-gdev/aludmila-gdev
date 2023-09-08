@@ -58,31 +58,31 @@ Currently focused on Mobile projects, with experience in development, test autom
 
 👩🏽‍🏭 I’m currently working on [Kranberry Library](https://github.com/kranberry-io/kranberry)
 
-📚 I’m currently learning [iOS App Development](https://github.com/knludi-ios)
+📚 I’m currently learning [iOS App Development](https://github.com/aludmila-gdev-ios)
 
 ------------------------------------------------------------------------
 ## Stats
 <br>
 <div align="center">
-  <a href="https://github.com/knludi">
+  <a href="https://github.com/aludmila-gdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aludmila-gdev&show_icons=true&theme=buefy&count_private=true&show_owner=true"/>
 </div>
 
 <br>
 <div align="center">
-  <a href="https://github.com/knludi">
+  <a href="https://github.com/aludmila-gdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aludmila-gdev&repo=github-readme-stats&layout=compact"/>
 </div>
 
 ------------------------------------------------------------------------
 
 <div align="center">
-  <a href="https://github.com/knludi">
+  <a href="https://github.com/aludmila-gdev">
   <img height="25em" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=aludmila-gdev.aludmila-gdev&color=00cf00"/>
 </div>
 
 ------------------------------------------------------------------------
 <div align="center">
-  <a href="https://github.com/knludi">
+  <a href="https://github.com/aludmila-gdev">
   <img height="300em" src="https://raw.githubusercontent.com/aludmila-gdev/aludmila-gdev/master/res/ana.gif"/>
 </div>
