@@ -8,9 +8,25 @@
 
 ------------------------------------------------------------------------
 ## About Me
-I'm a Lead Mobile Developer with 13+ years of experience. MBA in Strategic Quality Management and CTFL, CTFL-AT, CTAL-TAE, CTAL-SEC.
+📱 Mobile Tech Leader | Quality Specialist 🌟
 
-Currently focused on Mobile projects, with experience in development, test automation and build pipelines. I already had the opportunity to work with different clients from North and South America.
+With over 13 years in tech, I've evolved from a software quality expert to a Lead Mobile Developer. My journey has led me to master various languages and frameworks, enabling me to craft exceptional mobile experiences, particularly in Android using Kotlin.
+
+I'm the brains behind the Kranberry library, designed to turbocharge end-to-end testing for Android apps.
+
+🌍 Beyond the Code:
+
+I'm not just a developer; I'm an active community builder, passionate about collective knowledge and creative solutions. My mantra: "Together, we thrive!"
+
+🚀 My Toolbox:
+
+Frameworks: Kotlin Multiplatform Mobile, XCUITest, UIAutomator, Selenium Webdriver, and more. I excel in BDD, TDD, Data-Driven Tests, and Mobile production automation.
+
+Languages: Kotlin, Swift, Yml, Python, ShellScript.
+
+Tools: Android Studio, Git, Bitbucket, Google Analytics, Xcode, Kranberry, Bitrise, MacOS, iTerm.
+
+Let's build tech that changes the world, one mobile app at a time! 🚀📱✨
 
 ------------------------------------------------------------------------
 ## Skills & Tools
